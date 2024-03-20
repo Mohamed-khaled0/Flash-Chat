@@ -39,6 +39,8 @@ To get started with Flash Chat, follow these steps:
 
 For any inquiries or assistance, please contact [mohamedalshraby3@gmail.com].
 
+## Screenshots
+
 <p float="left">
     <img src="https://github.com/Mohamed-khaled0/Flash-Chat/assets/69611091/ba71df9b-e83c-4cd1-a686-aec36aa19686" alt="Home" width="220" height="500" style="display:inline; margin:5px;">
     <img src="https://github.com/Mohamed-khaled0/Flash-Chat/assets/69611091/a8b19c16-047f-4d5e-b40a-8abf7d585fd9" alt="Register" width="220" height="500" style="display:inline; margin:5px;">
